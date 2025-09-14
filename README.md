@@ -1,11 +1,11 @@
 <h3>Hello there, I'm Cole!👋 </h3>
-<h6>I'm a 23-year-old developer from the Philippines who has 4 years of experience designing and building applications, sofware, and websites. I love to plan, organize, and make things efficient. </h6>
+<h6>I'm a 24-year-old developer from the Philippines who has 5 years of experience designing and building applications, sofware, and websites. I love to plan, organize, and make things efficient. </h6>
 
-- 🏥 I’m currently collaborating with [JRRMC](https://jrrmmc.gov.ph/) to revolutionize the use of electronic medical records in the country. 
-- 🔭 I earned my Bachelor of Science degree in Computer Science from the [University of the Philippines Los Banos (UPLB)](https://uplb.edu.ph/) last August.
-- 👩‍💻 I have also worked with with [White Widget](https://whitewidget.com/), an award-winning software design and engineering agency.
-- 🌱 I’m currently interested **in web development, software engineering, and artificial intelligence.**
-- 📫 You can reach me at **caagsao@up.edu.ph**
+- 👩‍💻 I am currently working with with [White Widget](https://whitewidget.com/), an award-winning software design and engineering agency.
+- 🏥 I have collaborated with [JRRMC](https://jrrmmc.gov.ph/) to revolutionize the use of electronic medical records in the country. 
+- 🔭 I earned my Bachelor of Science degree in Computer Science from the [University of the Philippines Los Banos (UPLB)](https://uplb.edu.ph/) last August 2024.
+- 🌱 I’m currently interested **in system design, web development, and software engineering.**
+- 📫 You can reach me at **coleentherese.agsao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
